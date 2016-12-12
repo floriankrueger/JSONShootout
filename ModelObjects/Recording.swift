@@ -7,6 +7,7 @@
 //
 
 import Unbox
+import Himotoki
 
 public struct Recording {
     enum Status: String, UnboxableEnum {

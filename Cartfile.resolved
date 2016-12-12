@@ -1,6 +1,7 @@
 github "Anviking/Decodable" "5cbd5cf2a13376e11f8c8808c437c7e8f9e45e27"
 github "LoganWright/Genome" "3.0.3"
 github "hkellaway/Gloss" "731d09219477c1765505473af6d5152dc968d778"
+github "ikesyo/Himotoki" "efeb1b1589303fe91f853d940f14c522a88bad0a"
 github "utahiosmac/Marshal" "ba0c55e5edfc216aae486229f6f5456ce3db4473"
 github "Hearst-DD/ObjectMapper" "2.2.1"
 github "postmates/PMJSON" "2857cd48632974c0e3b79f9c05d3a07cfd6f637b"
